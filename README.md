@@ -1,4 +1,4 @@
 # useful-links
 
-*[Frontend dev link](https://github.com/aquelito/frontend-dev-bookmarks)
-*[github resume](https://gist.github.com/aquelito/859671)
+* [Frontend dev link](https://github.com/aquelito/frontend-dev-bookmarks)
+* [github resume](https://gist.github.com/aquelito/859671)
