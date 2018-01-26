@@ -7,4 +7,5 @@
   - [With CSS](https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp)  
   - [With JS](http://blog.csdn.net/forwayfarer/article/details/2834968)  
   - [With JQuery](https://www.jqueryscript.net/social-media/jQuery-Plugin-For-Floating-Social-Share-Contact-Sidebar.html)
-*[Useful web colors](http://blog.csdn.net/liaomin416100569/article/details/6661830)
+  
+ * [Useful web colors](http://blog.csdn.net/liaomin416100569/article/details/6661830)
