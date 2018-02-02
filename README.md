@@ -9,6 +9,6 @@
   - [With JQuery](https://www.jqueryscript.net/social-media/jQuery-Plugin-For-Floating-Social-Share-Contact-Sidebar.html)
   
  * [Useful web colors](http://blog.csdn.net/liaomin416100569/article/details/6661830)
- *[PHP array multidimensionel et associative](http://www.pierre-giraud.com/php-mysql/cours-complet/php-tableaux-multidimensionnels.php)
+ * [PHP array multidimensionel et associative](http://www.pierre-giraud.com/php-mysql/cours-complet/php-tableaux-multidimensionnels.php)
  
  
