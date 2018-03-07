@@ -2,9 +2,9 @@
 
 * [Frontend dev link](https://github.com/aquelito/frontend-dev-bookmarks)
 * Useful tool site
- - [JS](https://jsfiddle.net/)
- - [PHP-sandbox](http://sandbox.onlinephpfunctions.com/)
- - [Valiator-W3](https://validator.w3.org/)
+  - [JS](https://jsfiddle.net/)
+  - [PHP-sandbox](http://sandbox.onlinephpfunctions.com/)
+  - [Valiator-W3](https://validator.w3.org/)
  
 * [Github resume](https://gist.github.com/aquelito/8596717)
 * [Markdown Ref](http://commonmark.org/help/)
