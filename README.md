@@ -1,7 +1,7 @@
 # Useful-links
 
 * [Frontend dev link](https://github.com/aquelito/frontend-dev-bookmarks)
-* Useful tool site
+* Useful-tool sites
   - [JS](https://jsfiddle.net/)
   - [PHP-sandbox](http://sandbox.onlinephpfunctions.com/)
   - [Valiator-W3](https://validator.w3.org/)
