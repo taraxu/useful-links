@@ -16,7 +16,8 @@
  * [Useful web colors](http://blog.csdn.net/liaomin416100569/article/details/6661830)
  * [PHP array multidimensionel et associative](http://www.pierre-giraud.com/php-mysql/cours-complet/php-tableaux-multidimensionnels.php)
  * [PHP - Les expressions régulières](https://www.vulgarisation-informatique.com/expressions-regulieres.php)
- * [PHP - Functions](https://www.tutorialrepublic.com/php-tutorial/php-functions.php
- )
+ * [PHP - Functions](https://www.tutorialrepublic.com/php-tutorial/php-functions.php)
+ *[Jquery – Défilement fluide (scroll) vers une ID, une ancre](https://www.blog.niums.com/jquery-defilement-fluide-scroll-vers-une-id-une-ancre/)
+ 
  
  
