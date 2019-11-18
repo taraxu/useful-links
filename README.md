@@ -5,9 +5,10 @@
               npm install -g "@compodoc/compodoc" (for windows)
    - Local installation: npm install --save-dev @compodoc/compodoc
    - Run:  
-        - "scripts": {
-             "compodoc": "npx compodoc -p src/tsconfig.app.json"
-            }
+        - Define a script task for it in your package.json (with npm 6.x) :
+            - "scripts": {
+                "compodoc": "npx compodoc -p src/tsconfig.app.json"
+               }
        - npm run compodoc
        - compodoc -s src
             
