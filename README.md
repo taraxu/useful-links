@@ -1,6 +1,6 @@
 # Useful-links
 
-* [Compodoc] (https://compodoc.app/guides/installation.html)
+* [Compodoc](https://compodoc.app/guides/installation.html)
    - install: npm install -g @compodoc/compodoc (for mac)
               npm install -g "@compodoc/compodoc" (for windows)
    - Local installation: npm install --save-dev @compodoc/compodoc
