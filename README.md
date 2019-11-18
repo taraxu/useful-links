@@ -4,11 +4,12 @@
    - install: npm install -g @compodoc/compodoc (for mac)
               npm install -g "@compodoc/compodoc" (for windows)
    - Local installation: npm install --save-dev @compodoc/compodoc
-   - Run "scripts": {
-            "compodoc": "npx compodoc -p src/tsconfig.app.json"
-          }
-          npm run compodoc
-          compodoc -s src
+   - Run:  
+        - "scripts": {
+             "compodoc": "npx compodoc -p src/tsconfig.app.json"
+            }
+       - npm run compodoc
+       - compodoc -s src
             
 * [Frontend dev link](https://github.com/aquelito/frontend-dev-bookmarks)
 * Useful-tool sites
